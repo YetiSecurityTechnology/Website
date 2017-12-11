@@ -1,5 +1,5 @@
 <html>
-
+<!-- This code is part of a CTF challenge. This page is not available online ;). -->
 <head>
 <title>YetiSecurityTechnology Login</title>
 </head>
